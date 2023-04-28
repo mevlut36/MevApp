@@ -9,6 +9,12 @@ MevApp est une application open-source qui rassemble différentes fonctionnalit�
 - Afficher les informations de connexion stockées
 - Supprimer des informations de connexion
 
+### Calculatrice
+- Besoin d'explications ?
+
+### Technologie NFC (In dev)
+-
+
 ## Utilisation
 
 1. Téléchargez et installez l'application sur votre appareil Android ou iOS.
